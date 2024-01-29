@@ -1,5 +1,5 @@
-# Gallery App
-GalleryApp is a JavaFX application that showcases a dynamic and interactive gallery of images sourced from iTunes. It is developed in Java and utilizes the JavaFX framework for its graphical user interface. The application allows users to search for images related to a specific query (e.g., a music artist), and displays a selection of relevant images in a tile format. The gallery's content can be dynamically updated and altered through user interactions.
+# ITunes App
+ITunes App is a JavaFX application that showcases a dynamic and interactive gallery of images sourced from iTunes. It is developed in Java and utilizes the JavaFX framework for its graphical user interface. The application allows users to search for images related to a specific query (e.g., a music artist), and displays a selection of relevant images in a tile format. The gallery's content can be dynamically updated and altered through user interactions.
 
 ## Features
 - **Dynamic Image Gallery:** Displays images in a grid layout, sourced based on user search queries.
